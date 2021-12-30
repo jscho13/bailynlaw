@@ -1,3 +1,5 @@
+<?php $ip = $_SERVER['HTTP_CLIENT_IP'] ?? $_SERVER['HTTP_X_FORWARDED_FOR'] ?? $_SERVER['HTTP_X_REAL_IP'] ?? $_SERVER['REMOTE_ADDR'] ?>
+
 <header class="container-fluid black-bg">
   <?php include 'menu.php'?>
 
@@ -21,6 +23,9 @@
               </div>
               <div class="form-group">
                 <tr><td valign="top"></td><td><textarea class="form-control rounded-0 header-quote-input-field" name="comments" size="30" rows="6" cols="30" placeholder="Brief summary of the facts..."></textarea></td></tr>
+              </div>
+              <div class="form-group">
+                <tr><td valign="top"></td><td><input name="ip" type="hidden" value="<?php echo "$ip" ?>"></input></td></tr>
               </div>
               <tr><td>&nbsp;</td><td><input type="submit" value="Send" class="btn btn-info rounded-0"></td></tr>
 
