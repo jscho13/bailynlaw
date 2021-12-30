@@ -1,0 +1,21 @@
+# force SSL on entire site
+RewriteEngine On 
+RewriteCond %{HTTPS} !=on
+RewriteRule ^/?(.*) https://bailynlaw.com/$1 [R=301,L]
+
+# BEGIN WordPress
+<IfModule mod_rewrite.c>
+RewriteEngine On
+RewriteBase /
+RewriteRule ^index\.php$ - [L]
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule . /index.php [L]
+</IfModule>
+
+# END WordPress
+
+# Redirects
+Redirect /nyc-wages-benefits-fees-commissions https://bailynlaw.com/nyc-commercial-real-estate-attorneys-business-lease-lawyers/
+Redirect /emergency-legal-services/ https://bailynlaw.com
+Redirect /about-us/about-the-firm/ https://bailynlaw.com

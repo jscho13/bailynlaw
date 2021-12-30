@@ -1,0 +1,35 @@
+
+
+@media screen and (max-width: 782px){
+    .term-subtitle-wrap{
+        display: none;
+    }
+    .term-image-url-wrap{
+        display: none;
+    }
+    .term-tags-wrap{
+        display: none;
+    }
+    .term-show-checkbox-wrap{
+        display: none;
+    }
+    .search-box{
+        display: none;
+    }
+    #wpbody-content{
+        padding-bottom: 0px;
+    }
+    #col-right{
+        display: none;
+    }
+    h1{
+        display: none;
+    }
+    h2{
+        font-size: 23px !important;
+        font-weight: 400 !important;
+        margin: 0 !important;
+        padding: 9px 15px 4px 0 !important;
+        line-height: 29px !important;
+    }
+}

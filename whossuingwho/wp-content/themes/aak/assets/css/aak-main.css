@@ -1,0 +1,444 @@
+/*--------------------------------------------------------------
+>>> TABLE OF CONTENTS:
+----------------------------------------------------------------
+# widget
+    - sidebar
+    - Box sizing
+
+
+--------------------------------------------------------------*/
+
+a:hover,
+a:visited{
+    color:#ec2b8c;
+}
+a.post-thumbnail {
+    overflow: hidden;
+    display: block;
+    width: 100%;
+}
+/* header style
+--------------------------------------------- */
+/*Header top*/
+.aaktop-menu,
+.aaktop-menu ul {
+    display: flex;
+}
+
+.aaktop-menu li {
+    padding: 0 10px;
+}
+.aaktop-tophead, 
+.aaktop-tophead a, 
+.aaktop-tophead span, 
+.aaktop-tophead input {
+    font-size: 13px;
+}
+.aaktop-tophead a:hover{
+    color:#dedede;
+}
+.topmenu-serch {
+    display: flex;
+    align-items: baseline;
+    flex-flow: row wrap;
+}
+.header-top-search input[type="submit"] {
+    display: none;
+}
+
+.header-top-search input[type="search"] {
+    width: 100%;
+    padding: 3px 7px;
+}
+.header-top-search {
+    width: 200px;
+    margin-left: 10px;
+}
+.header-top-search label {
+    width: 100%;
+    margin: 0;
+}
+.aaktop-tophead .row{
+    align-items: baseline;
+}
+.brand-menubar{
+    -webkit-box-shadow: 0 0 70px rgba(0,0,0,.11);
+    box-shadow: 0 0 70px rgba(0,0,0,.11);
+    position: relative;
+}
+.aak-header .site-title {
+    font-weight: 500;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+}
+h1.site-title {
+  margin-bottom: 2px
+}
+h1.site-title a {
+  font-size: 30px;
+  color:#ec2b8c;
+  line-height: 1;
+  margin-bottom: 0;
+}
+p.site-description {
+    font-size: 16px;
+}
+
+p.site-description {
+    display: inline-block;
+}
+
+.aak-main-menu.menu-right ul{
+    display: flex;
+    justify-content: flex-end;
+    text-align: left;
+    margin-bottom: 10px
+}
+.aak-main-menu.menu-center ul{
+    display: flex;
+    justify-content: center;
+}
+.d-flex.aak-logo-left {
+    align-items: center;
+}
+.d-flex.aak-logo-right {
+    flex-direction: row-reverse;
+    align-items: center;
+}
+.d-flex.aak-logo-center {
+    flex-flow: column wrap;
+    align-items: center;
+}
+.aak-logo-center .headerlogo-text {
+    padding: 10px 0 0;
+}
+
+/* Widgets - sidebar
+--------------------------------------------- */
+h3.widget-title {
+    text-align: center;
+    font-size: 14px;
+    text-transform: uppercase;
+    background: #fad4d5;
+    padding: 10px 5px;
+    margin-bottom: 20px;
+}
+
+.widget ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+.widget ul li {
+    margin-bottom: 5px;
+    padding-bottom: 5px;
+    border-bottom: 1px solid #ededed;
+}
+
+.widget ul li:last-child {
+    border: none;
+}
+.widget .search-form label,.widget .search-form label input {
+    width: 100%;
+}
+
+.widget .search-form input.search-submit {
+    width: 100%;
+    border: 2px solid #000;
+    background: transparent;
+    text-transform: uppercase;
+    min-height: 33px;
+    color:#000;
+}
+
+.widget .search-form input {
+    padding: 5px 9px;
+    min-height: 35px;
+}
+
+.widget .search-form input.search-submit:hover {
+    background: #000;
+    color: #fff;
+}
+h3.widget-title,
+h2.widget-title {
+    text-align: center;
+    font-size: 14px;
+    text-transform: uppercase;
+    background: #fad4d5;
+    padding: 10px 5px;
+    margin-bottom: 20px;
+}
+
+.footer-widget, 
+.footer-widget p, 
+.footer-widget a, 
+.footer-widget #wp-calendar caption,
+.footer-widget .search-form input.search-submit{
+    color: #fff;
+}
+
+.footer-widget .widget-title {
+    background: inherit;
+    color: #fff;
+    text-align: left;
+    border-bottom: 2px solid #ccc;
+}
+.footer-widget ul li {
+    border-bottom: 1px solid #555;
+}
+
+/*content style*/
+.entry-meta, .entry-meta a {
+    font-size: 12px;
+    color: #ec2b8c;
+}
+.card.aakcard {
+    -webkit-box-shadow: 0 0 70px rgba(0,0,0,.11);
+    box-shadow: 0 0 70px rgba(0,0,0,.11);
+    border: none;
+    background: #fff;
+}
+.sticky .entry-header, 
+.tag-sticky-2 .entry-header {
+    text-align: center;
+    margin-bottom: 2rem;
+}
+.aak-list-flex {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+}
+.card.aak-list-blog {
+    box-shadow: 0 0 70px rgba(0,0,0,.11);
+}
+.card-text.col-lg-8.col-md-6.col-sm-12 {
+    padding-left: 0;
+}
+
+.card-body-text h5 {
+    margin-bottom: 5px;
+    margin-top: 0;
+}
+.card-body-text {
+    padding: 5px 15px 5px 5px;
+}
+.aakno-img .card-body-text {
+    padding: 15px;
+}
+.aak-blog-text,
+.aak-blog-img {
+    width: 50%;
+}
+.aak-blog-img a {
+    display: block;
+}
+.aak-blog-img img {
+    width: 100%;
+}
+.aak-blog-img {
+    -ms-flex-preferred-size: 550px;
+        flex-basis: 550px;
+}
+
+.aak-btext,
+.widget-area .widget,
+.site-footer,
+.archive-header,
+.search-header,
+.aak-page,
+.site-main .comment-navigation, 
+.site-main .posts-navigation, 
+.site-main .post-navigation,
+.site-footer,
+.aak-blog-list,
+.aak-single-list,
+.comments-area,nav.navigation.pagination .nav-links a,
+nav.navigation.pagination .nav-links span {
+    -webkit-box-shadow: 0 0 70px rgba(0,0,0,.11);
+            box-shadow: 0 0 70px rgba(0,0,0,.11);
+    padding: 20px;
+    background: #fff;
+}
+.aak-btext {
+    margin-left: -120px;
+}
+.no-img .aak-btext{
+    margin-left: 0;
+}
+nav.navigation.pagination {
+    text-align: center;
+    display: block;
+    margin-top: 30px;
+    width: 100%;
+    padding: 20px 0;
+}
+
+nav.navigation.pagination .nav-links a,
+nav.navigation.pagination .nav-links span {
+    border: 1px solid #ededed;
+    padding: 5px 10px;
+    text-transform: unset;
+}
+.aak-blog-text {
+    -ms-flex-item-align: center;
+        -ms-grid-row-align: center;
+        align-self: center;
+    position: relative;
+    overflow: inherit;
+}
+.no-img .aak-blog-text {
+    -webkit-box-flex: 1;
+        -ms-flex-positive: 1;
+            flex-grow: 1;
+}
+.entry-footer, 
+.entry-footer a {
+    font-size: 12px;
+    background: #fad4d5;
+}
+.entry-footer {
+    background: #fad4d5;
+    padding: 15px 10px;
+    text-align: center;
+    margin: 35px 0 20px;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    width: 100%;
+    -ms-flex-wrap: wrap;
+        flex-wrap: wrap;
+    -webkit-box-pack: center;
+        -ms-flex-pack: center;
+            justify-content: center;
+}
+.page .entry-footer {
+    display: inline-block;
+    width: auto;
+    background: inherit;
+}
+.card-columns .post {
+    margin-bottom: 10px;
+}
+form.post-password-form {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-wrap: wrap;
+        flex-wrap: wrap;
+    text-align: center;
+}
+
+form.post-password-form p {
+    width: 100%;
+}
+.entry-footer, .entry-footer a {
+    font-size: 12px;
+}
+.entry-footer span {
+    margin-right: 15px;
+}
+
+.site-footer,.site-main .comment-navigation, 
+.site-main .posts-navigation, 
+.site-main .post-navigation {
+    background: #fad4d5;
+}
+.sticky .card-body {
+    background: #ededed;
+}
+
+@media screen and (max-width: 992px) {
+    .aak-main-nav {
+        justify-content: flex-end;
+        margin: auto;
+        text-align: right;
+    }
+    /*.aadhs-two .aak-main-nav {
+        float: right;
+    }*/
+    
+    .aakmstyle1 .aak-main-menu {
+        position: relative;
+    }
+    .site-navigation {
+        position: relative;
+    }
+
+    .menu-testing-menu-container {
+        position: absolute;
+        right: 0;
+        top: 60px;
+        max-width: 450px;
+        text-align: left;
+        background: #fff;
+        z-index: 9999;
+        box-shadow: 0 0 70px rgba(0,0,0,.11);
+        left: 0;
+        margin: auto;
+    }
+    .aak-blog-text, 
+    .aak-blog-img {
+        width: 100%;
+        -ms-flex-preferred-size: inherit;
+            flex-basis: inherit;
+    }
+    .aak-list-flex {
+        -webkit-box-orient: horizontal;
+        -webkit-box-direction: normal;
+            -ms-flex-flow: row wrap;
+                flex-flow: row wrap;
+    }
+    .aak-btext {
+        margin-left: 0;
+    }
+    .main-navigation ul> li.befocus.menushow> ul.sub-menu,
+    .main-navigation ul> li.befocus.menushow> ul.children{
+        display: block !important;
+    }
+    .main-navigation ul> li.befocus> ul.sub-menu,
+    .main-navigation ul> li.befocus> ul.children{
+        display: none !important;
+    }
+
+}
+@media screen and (max-width: 767px) {
+    span.bhtop-text.pt-2 {
+        display: block;
+        text-align: center;
+    }
+    .aak-main-nav {
+        text-align: center;
+    }
+    .d-flex.aak-menu-wrap {
+        flex-flow: column wrap;
+    }
+    .card-text.col-lg-8.col-md-6.col-sm-12 {
+        padding-left: 15px;
+    }
+    .card-body-text {
+        padding: 15px;
+    }
+
+ }
+@media screen and (max-width: 480px) {
+    .aakmenu-display.d-flex {
+        flex-direction: column;
+    }
+    .topmenu-serch {
+        justify-content: center;
+    }
+    .aak-main-nav {
+        text-align: center;
+        width: 100%;
+        position: relative;
+    }
+    .menu-testing-menu-container{
+        top: 50px;
+    }
+    .headerlogo-text {
+        text-align: center;
+    }
+
+}
