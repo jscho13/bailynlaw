@@ -1,9 +1,28 @@
 .footer-quote #FormContainer {
   display: block;
   margin: 32px;
+  padding-bottom: 10px;
 }
 @media only screen and (min-width : 991px) {
-.footer-quote #FormContainer {
-  display: block;
+  .footer-quote #FormContainer {
+    display: block;
+    padding-bottom: 10px;
+  }
 }
+
+#sub-category-sidebar #FormContainer {
+  background-color: #575B67 !important;
+  border: 7px solid  #797c85;
+  color: white;
+  padding-bottom: 10px;
 }
+#sub-category-sidebar #FormContainer, #sub-category-sidebar #FormContainer .fsBody, 
+#sub-category-sidebar #FormContainer .fsForm {
+  background-color: #575B67 !important;
+  color: white;
+}
+#sub-category-sidebar #FormContainer .fsLabel, 
+#sub-category-sidebar #FormContainer a{
+  color: #FFFFFF !important;
+}
+

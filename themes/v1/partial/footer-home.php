@@ -5,7 +5,7 @@
       <h2 class="tablet-desktop-only">How can we help you?</h2>
       <h3 class="tablet-desktop-only">Discover the advantages we bring you. No-cost initial consultation.</h3>
       <div class="footer-quote col-md-4">
-        <?php include DIR_ROOT.DIR_THEME_PARTIAL.'/contact-form-footer.php';?>
+        <?php include DIR_ROOT.DIR_THEME_PARTIAL.'/contact-form.php';?>
       </div>
       <div class="col-md-4">
         <p style="margin-top:30px;text-align:center;">6301 Mill Lane Brooklyn, NY 11234</p>

@@ -2,9 +2,9 @@
 
 <div id="FormContainer" class="FormContainer">
   <h3>Fill out the form below or call us at <a href="tel:+17188410025">718-841-0025</a>
-    for a consultation.</h3>
+    for a free in-office consultation.</h3>
   <form action="https://bailynlaw.com/mailer/create-email" method="post">
-    <table border="0" bgcolor="#000" cellspacing="5" align="center">
+    <table border="0" cellspacing="5" align="center">
       <div class="form-group">
         <tr><td></td><td><input class="form-control rounded-0 header-quote-input-field" type="text" size="30" name="name" placeholder="Name:"></td></tr>
       </div>
@@ -25,3 +25,4 @@
     </table>
   </form>
 </div>
+

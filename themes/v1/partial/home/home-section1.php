@@ -428,7 +428,9 @@
 
       </div>
 
+    <div class="col-md-3 desktop-only container-fluid black-bg">
       <?php include DIR_ROOT.DIR_THEME_PARTIAL.'/contact-form.php';?>
+    </div>
 
     </div>
   </div>

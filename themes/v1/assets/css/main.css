@@ -1522,21 +1522,6 @@ hr.hr-grey85{
 }
 
 
-#sub-category-sidebar #FormContainer {
-    background-color: #575B67 !important;
-	border: 7px solid  #797c85;
-	color: white;
-}
-#sub-category-sidebar #FormContainer, #sub-category-sidebar #FormContainer .fsBody, 
-#sub-category-sidebar #FormContainer .fsForm {
-    background-color: #575B67 !important;
-	color: white;
-}
-#sub-category-sidebar #FormContainer .fsLabel, 
-#sub-category-sidebar #FormContainer a{
-    color: #FFFFFF !important;
-}
-
 .bradley_bailyns_guide_to_commercial_litigation_in_new_york_city .blog-header{
 	font-family: Playfair Display;
 	font-size:26px;
