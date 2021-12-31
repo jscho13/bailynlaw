@@ -1,4 +1,3 @@
-<?php // TODO: can we delete this file? It's used in other static files that don't look like they're being used ?>
 <footer class="container-fluid footer footer-main">
 
   <div class="container-fluid">
@@ -6,22 +5,13 @@
     <div id="how-can-we-help-you" class="row padding">
       <h2 class="tablet-desktop-only">How can we help you?</h2>
       <h3 class="tablet-desktop-only">Discover the advantages we bring you. No-cost initial consultation.</h3>
-      <p class="mobile-only text-center">Call <a href="tel:+17188410025">718-841-0025</a> or fill the below form and we'll get right back to you.</p>
-      <div class="col-md-4">
-        <script type="text/javascript" src="https://managementconsultingnyc.formstack.com/forms/js.php/untitled_form_copy"></script>
-        <noscript></noscript>
-        <div style="text-align:right; font-size:x-small;">
-          <a href="http://www.formstack.com?utm_source=jsembed&utm_medium=product&utm_campaign=product+branding&fa=h,3024536" title="Corporate Law Contact">
-          </a>
-        </div>
+      <div class="footer-quote col-md-4">
+        <?php include DIR_ROOT.DIR_THEME_PARTIAL.'/contact-form.php';?>
       </div>
-      <div class="col-md-4">
 
+      <div class="col-md-4">
         <p style="margin-top:30px;">6301 Mill Lane Brooklyn, NY 11234</p>
         <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3028.4930124058747!2d-73.91829138459781!3d40.619008179342195!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c24348fb1623bb%3A0x195df3ee0d894f9!2s6301+Mill+Ln%2C+Brooklyn%2C+NY+11234%2C+EE.+UU.!5e0!3m2!1ses-419!2smx!4v1549120896460"frameborder="0" style="border:0;width:96%;height:82%;" allowfullscreen></iframe>
-
-
-
       </div>
       <div class="col-md-4 tablet-desktop-only">
         <div class="grey-bg contact-us">
