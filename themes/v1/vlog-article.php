@@ -83,7 +83,9 @@ if($transcript == ''){
 			</div>
 			<div id="FormContainer" class="FormContainer">
 				<h3>Fill out the form below or call us at <a href="tel:+17188410025">718-841-0025</a> for a free in-office consultation.</h3>
-				<script type="text/javascript" src="https://managementconsultingnyc.formstack.com/forms/js.php/untitled_form_copy"></script><noscript></noscript><div style="text-align:right; font-size:x-small;"><a href="http://www.formstack.com?utm_source=jsembed&utm_medium=product&utm_campaign=product+branding&fa=h,3024536" title="Corporate Law Contact"></a></div>
+        <script type="text/javascript" src="https://managementconsultingnyc.formstack.com/forms/js.php/untitled_form_copy"></script>
+        <noscript></noscript>
+        <div style="text-align:right; font-size:x-small;"><a href="http://www.formstack.com?utm_source=jsembed&utm_medium=product&utm_campaign=product+branding&fa=h,3024536" title="Corporate Law Contact"></a></div>
 			</div>
 			<div class="vcast-container">
 			<h2 class="header">Related Episodes</h2>

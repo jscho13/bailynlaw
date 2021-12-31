@@ -8,3 +8,4 @@
 
 <?php  
      include DIR_ROOT.DIR_THEME_PARTIAL.'/footer.php';
+?>
