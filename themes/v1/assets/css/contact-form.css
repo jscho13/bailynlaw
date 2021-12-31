@@ -1,0 +1,9 @@
+.footer-quote #FormContainer {
+  display: block;
+  margin: 32px;
+}
+@media only screen and (min-width : 991px) {
+.footer-quote #FormContainer {
+  display: block;
+}
+}

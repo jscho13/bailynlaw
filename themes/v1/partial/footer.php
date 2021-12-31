@@ -1,3 +1,4 @@
+<?php // TODO: can we delete this file? It's used in other static files that don't look like they're being used ?>
 <footer class="container-fluid footer footer-main">
 
   <div class="container-fluid">

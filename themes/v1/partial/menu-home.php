@@ -3,8 +3,7 @@
 <header class="container-fluid black-bg">
   <?php include 'menu.php'?>
 
-  <div id="" class="row ">
-    <!--<div class="col-6 col-sm-6 col-md-4 col-lg-4">-->
+  <div class="row ">
     <div class="col-sm-6 col-md-4 col-lg-4">
       <div class="header-quote">
         <div id="FormContainer" class="FormContainer">
@@ -37,7 +36,6 @@
         </div>
       </div>
     </div>
-    <!--<div class="col-6 col-sm-6 col-md-8 col-lg-8">-->
     <div class="col-sm-6 col-md-8 col-lg-8">
       <div class="header-image-container">
         <img 
