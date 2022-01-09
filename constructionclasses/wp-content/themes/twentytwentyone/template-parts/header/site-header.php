@@ -816,12 +816,6 @@ $wrapper_classes .= has_nav_menu( 'primary' ) ? ' has-menu' : '';
 
                 <li>
 
-                <a class="services-header" href="https://bailynlaw.com/nyc-commercial-real-estate-attorneys-business-lease-lawyers/">Residential Real Estate Law</a>
-
-                </li>
-
-                <li>
-
                 <a class="services-header" href="https://bailynlaw.com/tax-law-nyc-nys-irs/">Tax Law: NYC, NYS &amp; IRS</a>
 
                 <a class="inner-sub-menu-plus inner-menu-trigger" id="trusts-and-estates-litigation-menu-link">+</a>

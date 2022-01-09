@@ -112,13 +112,6 @@ body{
           real estate and financial matters.</p>
         </div>
       </a>
-      <a class="plain-text-link" href="<?php echo SITE_URL?>/nyc-commercial-real-estate-attorneys-business-lease-lawyers/">
-        <div class="sidebarContainer">
-          <img src="<?php echo DIR_HTTPS_CATALOG.DIR_IMAGES?>/Short-Sales-Auction-Contracts.png" width="100%" alt="Real Estate Attorneys" title="Real Estate Attorneys"> <strong>Real Estate Attorneys</strong><p>We handle the full range of real estate matters
-          from buying, selling and leasing to probate litigation
-          to landlord tenant disputes to the negotiation of financing terms.</p>
-        </div>
-      </a>
       <a class="plain-text-link" href="<?php echo SITE_URL?>/nyc-bankruptcy-lawyers-business-restructuring-chapter-7-11-13-attorneys/">
         <div class="sidebarContainer">
           <img src="<?php echo DIR_HTTPS_CATALOG.DIR_IMAGES?>/Special-Needs-Trusts.png" width="100%" alt="Debt Relief &amp; Bankruptcy Attorneys" title="Debt Relief &amp; Bankruptcy Attorneys"> <strong>Debt Relief &amp; Bankruptcy Attorneys</strong><p>We represent both debtors and creditors. On the debtor side

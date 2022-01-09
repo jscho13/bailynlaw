@@ -607,11 +607,6 @@
                 </li>
                 <li>
                 <a class="services-header" href="
-                  <?php echo SITE_URL?>/nyc-commercial-real-estate-attorneys-business-lease-lawyers/">Residential Real Estate Law
-                </a>
-                </li>
-                <li>
-                <a class="services-header" href="
                   <?php echo SITE_URL?>/tax-law-nyc-nys-irs/">Tax Law: NYC, NYS &amp; IRS
                 </a>
                 <a class="inner-sub-menu-plus inner-menu-trigger" id="trusts-and-estates-litigation-menu-link">+</a>
