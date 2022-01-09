@@ -361,10 +361,6 @@
             <li>
             <a href="<?php echo SITE_URL; ?>/nyc-startup-and-small-business-law/employment-law-litigation/"><!--Employment Law &amp; Litigation-->Employment Transactions &amp; Agreements</a>
             </li>	
-            <li>
-            <a href="<?php echo SITE_URL; ?>/nyc-startup-and-small-business-law/franchise-law-and-litigation/"><!--Franchise Law &amp; Litigation-->Franchise Transactions &amp; Agreements</a>
-
-            </li>	
           </ul>
           </li>
 

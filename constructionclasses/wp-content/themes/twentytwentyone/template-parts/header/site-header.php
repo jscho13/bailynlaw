@@ -786,31 +786,6 @@ $wrapper_classes .= has_nav_menu( 'primary' ) ? ' has-menu' : '';
 
                   </li>	
 
-                  <li>
-
-                  <a href="https://bailynlaw.com/nyc-startup-and-small-business-law/franchise-law-and-litigation/"><!--Franchise Law &amp; Litigation-->Franchise Transactions &amp; Agreements</a>
-
-                  <!--
-
-        <a class="inner-sub-menu-plus inner-menu-trigger" id="">+</a>
-
-        <div class="inner-menu-hidden">
-
-          <ul class="services-submenu-submenu">
-
-            <li>
-
-              <a href=""></a>
-
-            </li>
-
-          </ul>
-
-        </div>
-
-        -->
-
-                  </li>	
                 </ul>
 
                 </li>
