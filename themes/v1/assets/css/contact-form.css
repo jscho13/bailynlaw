@@ -1,12 +1,12 @@
 .footer-quote #FormContainer {
   display: block;
   margin: 32px;
-  padding-bottom: 10px;
+  padding-bottom: 10px !important;
 }
 @media only screen and (min-width : 991px) {
   .footer-quote #FormContainer {
     display: block;
-    padding-bottom: 10px;
+    padding-bottom: 10px !important;
   }
 }
 
@@ -14,7 +14,7 @@
   background-color: #575B67 !important;
   border: 7px solid  #797c85;
   color: white;
-  padding-bottom: 10px;
+  padding-bottom: 10px !important;
 }
 #sub-category-sidebar #FormContainer, #sub-category-sidebar #FormContainer .fsBody, 
 #sub-category-sidebar #FormContainer .fsForm {
