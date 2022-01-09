@@ -811,21 +811,6 @@ $wrapper_classes .= has_nav_menu( 'primary' ) ? ' has-menu' : '';
         -->
 
                   </li>	
-
-                  <li>
-
-                  <a href="https://bailynlaw.com/nyc-startup-and-small-business-law/intellectual-property-and-startup-law/"><!--Intellectual Property &amp; Startup Law-->Intellectual Property Transactions &amp; Agreements</a>
-
-
-
-                  </li>		
-
-                  <li>
-
-                  <a href="https://bailynlaw.com/nyc-startup-and-small-business-law/intellectual-property-and-startup-law/"><!--Intellectual Property &amp; Startup Law-->Internet-related Business Agreements</a>
-
-                  </li>	
-
                 </ul>
 
                 </li>

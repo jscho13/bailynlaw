@@ -349,16 +349,6 @@
               <a class="inner-sub-menu-plus inner-menu-trigger" id="">+</a><div class="inner-menu-hidden"><ul class="services-submenu-submenu"><li><a href=""></a></li></ul></div>
               -->
     </li>
-    <li>
-    <a href="<?php echo SITE_URL?>/nyc-startup-and-small-business-law/intellectual-property-and-startup-law/">
-      <!--Intellectual Property &amp;  Startup Law-->Intellectual Property Transactions &amp;  Agreements
-    </a>
-    </li>
-    <li>
-    <a href="<?php echo SITE_URL?>/nyc-startup-and-small-business-law/intellectual-property-and-startup-law/">
-      <!--Intellectual Property &amp;  Startup Law-->Internet-related Business Agreements
-    </a>
-    </li>
   </ul>
   </li>
   <li>

@@ -592,18 +592,6 @@
                     <!--Franchise Law &amp; Litigation-->Franchise Transactions &amp; Agreements
                   </a>
                   </li>
-                  <li>
-                  <a href="
-                    <?php echo SITE_URL?>/nyc-startup-and-small-business-law/intellectual-property-and-startup-law/">
-                    <!--Intellectual Property &amp; Startup Law-->Intellectual Property Transactions &amp; Agreements
-                  </a>
-                  </li>
-                  <li>
-                  <a href="
-                    <?php echo SITE_URL?>/nyc-startup-and-small-business-law/intellectual-property-and-startup-law/">
-                    <!--Intellectual Property &amp; Startup Law-->Internet-related Business Agreements
-                  </a>
-                  </li>
                 </ul>
                 </li>
                 <li>
