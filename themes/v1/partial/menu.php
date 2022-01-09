@@ -604,11 +604,6 @@
                     <!--Intellectual Property &amp; Startup Law-->Internet-related Business Agreements
                   </a>
                   </li>
-                  <li>
-                  <a href="
-                    <?php echo SITE_URL?>/nyc-startup-and-small-business-law/non-profit-and-foundation-law/">Non-Profit &amp; Foundation Law
-                  </a>
-                  </li>
                 </ul>
                 </li>
                 <li>

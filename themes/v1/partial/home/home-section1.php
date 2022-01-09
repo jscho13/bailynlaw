@@ -372,9 +372,6 @@
             <li>
             <a href="<?php echo SITE_URL; ?>/nyc-startup-and-small-business-law/intellectual-property-and-startup-law/"><!--Intellectual Property &amp; Startup Law-->Internet-related Business Agreements</a>
             </li>	
-            <li>
-            <a href="<?php echo SITE_URL; ?>/nyc-startup-and-small-business-law/non-profit-and-foundation-law/">Non-Profit &amp; Foundation Law</a>
-            </li>			
           </ul>
           </li>
 
@@ -428,9 +425,9 @@
 
       </div>
 
-    <div class="col-md-3 desktop-only container-fluid black-bg">
-      <?php include DIR_ROOT.DIR_THEME_PARTIAL.'/contact-form.php';?>
-    </div>
+      <div class="col-md-3 desktop-only container-fluid black-bg">
+        <?php include DIR_ROOT.DIR_THEME_PARTIAL.'/contact-form.php';?>
+      </div>
 
     </div>
   </div>

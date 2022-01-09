@@ -826,12 +826,6 @@ $wrapper_classes .= has_nav_menu( 'primary' ) ? ' has-menu' : '';
 
                   </li>	
 
-                  <li>
-
-                  <a href="https://bailynlaw.com/nyc-startup-and-small-business-law/non-profit-and-foundation-law/">Non-Profit &amp; Foundation Law</a>
-
-                  </li>			
-
                 </ul>
 
                 </li>
