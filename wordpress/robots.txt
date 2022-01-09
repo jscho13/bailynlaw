@@ -1,4 +1,0 @@
-User-agent: *
-Disallow: /contact/thank-you/
-Disallow: /privacy-policy/
-Sitemap: https://bailynlaw.com/page-sitemap.xml

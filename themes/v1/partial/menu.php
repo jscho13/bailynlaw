@@ -567,46 +567,6 @@
                 </li>
                 <li>
                 <a class="services-header" href="
-                  <?php echo SITE_URL?>/estate-planning/">Trusts &amp; Estates Litigation
-                </a>
-                <a class="inner-sub-menu-plus inner-menu-trigger" id="trusts-and-estates-litigation-menu-link">+</a>
-                <div class="inner-menu-hidden hidden-bg">
-                  <ul class="services-submenu closed-submenu">
-                    <li>
-                    <a href="
-                      <?php echo SITE_URL?>/estate-planning/challenge-a-trustee-investment-manager-or-other-fiduciary/">Challenge a Fiduciary
-                    </a>
-                    </li>
-                    <li>
-                    <a href="
-                      <?php echo SITE_URL?>/estate-planning/contest-a-will-or-trusts/">Contest a Will or Trust
-                    </a>
-                    </li>
-                    <li>
-                    <a href="
-                      <?php echo SITE_URL?>/estate-planning/legal-representation-for-estate-administrators/">Legal Representation For Estate Administrators
-                    </a>
-                    </li>
-                    <li>
-                    <a href="
-                      <?php echo SITE_URL?>/estate-planning/make-a-claim-under-a-will/">Make a Claim Under a Will
-                    </a>
-                    </li>
-                    <li>
-                    <a href="
-                      <?php echo SITE_URL?>/estate-planning/plan-your-estate/">Plan Your Estate
-                    </a>
-                    </li>
-                    <li>
-                    <a href="
-                      <?php echo SITE_URL?>/estate-planning/trusts/">Trusts
-                    </a>
-                    </li>
-                  </ul>
-                </div>
-                </li>
-                <li>
-                <a class="services-header" href="
                   <?php echo SITE_URL?>/tax-law-nyc-nys-irs/">Tax Law: NYC, NYS &amp; IRS
                 </a>
                 <a class="inner-sub-menu-plus inner-menu-trigger" id="trusts-and-estates-litigation-menu-link">+</a>

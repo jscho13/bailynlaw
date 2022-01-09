@@ -174,15 +174,6 @@ body{
           and preference cases.</p>
         </div>
       </a>
-      <a class="plain-text-link" href="<?php echo SITE_URL?>/estate-planning/">
-        <div class="sidebarContainer">
-          <img src="<?php echo DIR_HTTPS_CATALOG.DIR_IMAGES?>/Demand-an-Accounting.png" width="100%" alt="Trusts &amp; Estate Litigation Attorneys" title="Trusts &amp; Estate Litigation Attorneys"> <strong>Trusts &amp; Estate Litigation Attorneys</strong><p>We form trusts and advise on asset protection strategies.
-          We litigate fraud and financial dishonesty cases including
-          breach of fiduciary duty, forgery, duress, undue influence,
-          negligence, accounting and financial mismanagement. We file
-          claims for intestate heirs and advise administrators and executors.</p>
-        </div>
-      </a>
       <?php include DIR_ROOT.DIR_THEME_PARTIAL.'/contact-form-free.php';?>
     </div>
   </div>
