@@ -773,12 +773,6 @@ $wrapper_classes .= has_nav_menu( 'primary' ) ? ' has-menu' : '';
                   </div>
 
                   </li>
-
-                  <li>
-
-                  <a href="https://bailynlaw.com/nyc-startup-and-small-business-law/corporate-formation-and-governance/">Corporate Formation &amp; Governance</a>
-
-                  </li>	
                 </ul>
 
                 </li>

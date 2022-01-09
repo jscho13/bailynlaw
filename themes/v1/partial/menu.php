@@ -575,11 +575,6 @@
                     </ul>
                   </div>
                   </li>
-                  <li>
-                  <a href="
-                    <?php echo SITE_URL?>/nyc-startup-and-small-business-law/corporate-formation-and-governance/">Corporate Formation &amp; Governance
-                  </a>
-                  </li>
                 </ul>
                 </li>
                 <li>
