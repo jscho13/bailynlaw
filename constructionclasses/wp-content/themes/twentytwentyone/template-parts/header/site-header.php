@@ -779,13 +779,6 @@ $wrapper_classes .= has_nav_menu( 'primary' ) ? ' has-menu' : '';
                   <a href="https://bailynlaw.com/nyc-startup-and-small-business-law/corporate-formation-and-governance/">Corporate Formation &amp; Governance</a>
 
                   </li>	
-
-                  <li>
-
-                  <a href="https://bailynlaw.com/nyc-startup-and-small-business-law/employment-law-litigation/"><!--Employment Law &amp; Litigation-->Employment Transactions &amp; Agreements</a>
-
-                  </li>	
-
                 </ul>
 
                 </li>
