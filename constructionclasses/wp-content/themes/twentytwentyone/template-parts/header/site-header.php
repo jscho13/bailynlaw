@@ -700,12 +700,6 @@ $wrapper_classes .= has_nav_menu( 'primary' ) ? ' has-menu' : '';
 
                   <li>
 
-                  <a href="https://bailynlaw.com/nyc-startup-and-small-business-law/business-purchase-sale-and-financing/">Business Purchase, Sale &amp; Financing</a>
-
-                  </li>	
-
-                  <li>
-
                   <a href="https://bailynlaw.com/nyc-business-lawyers-corporate-attorneys-ma-buy-sell-due-diligence-bailyn-law/contracts-and-agreements/" class="services-header">Contracts and Agreements</a>
 
                   <a class="inner-sub-menu-plus inner-menu-trigger" id="">+</a>

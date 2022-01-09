@@ -318,9 +318,6 @@
           <a class="services-header" href="<?php echo SITE_URL; ?>/nyc-startup-and-small-business-law/"><!--Corporate &amp; Non-Profit Law-->Business Contracts &amp; Transactions </a>
           <ul class="services-submenu">
             <li>
-            <a href="<?php echo SITE_URL; ?>/nyc-startup-and-small-business-law/business-purchase-sale-and-financing/">Business Purchase, Sale &amp; Financing</a>
-            </li>	
-            <li>
             <a href="<?php echo SITE_URL; ?>/nyc-business-lawyers-corporate-attorneys-ma-buy-sell-due-diligence-bailyn-law/contracts-and-agreements/" class="services-header">Contracts and Agreements</a>
             <a class="inner-sub-menu-plus inner-menu-trigger" id="">+</a>
             <div class="inner-menu-hidden hidden-bg">
