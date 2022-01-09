@@ -694,12 +694,6 @@ $wrapper_classes .= has_nav_menu( 'primary' ) ? ' has-menu' : '';
 
                 <li>
 
-                <a class="services-header" href="https://bailynlaw.com/nyc-startup-and-small-business-law/"><!--Corporate &amp; Non-Profit Law-->Business Contracts &amp; Transactions </a>
-
-                <ul class="services-submenu">
-
-                  <li>
-
                   <a href="https://bailynlaw.com/nyc-business-lawyers-corporate-attorneys-ma-buy-sell-due-diligence-bailyn-law/contracts-and-agreements/" class="services-header">Contracts and Agreements</a>
 
                   <a class="inner-sub-menu-plus inner-menu-trigger" id="">+</a>
@@ -765,9 +759,6 @@ $wrapper_classes .= has_nav_menu( 'primary' ) ? ' has-menu' : '';
                     </ul>
 
                   </div>
-
-                  </li>
-                </ul>
 
                 </li>
 

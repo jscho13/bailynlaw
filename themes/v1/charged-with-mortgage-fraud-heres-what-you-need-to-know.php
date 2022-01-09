@@ -148,14 +148,6 @@ body{
           to landlord tenant disputes to the negotiation of financing terms.</p>
         </div>
       </a>
-      <a class="plain-text-link" href="<?php echo SITE_URL?>/nyc-startup-and-small-business-law/">
-        <div class="sidebarContainer">
-          <img src="<?php echo DIR_HTTPS_CATALOG.DIR_IMAGES?>/LLC-formation-and-investor-agreements.png" width="100%" alt="Small Business &amp; Startup Attorneys" title="Small Business &amp; Startup Attorneys"> <strong>Small Business &amp; Startup Attorneys</strong><p>We serve as a one-stop-shop for small businesses,
-          handling everything from contract drafting &amp; negotiation
-          to LLC formation and structuring investments to debt
-          collection.</p>
-        </div>
-      </a>
       <a class="plain-text-link" href="<?php echo SITE_URL?>/nyc-bankruptcy-lawyers-business-restructuring-chapter-7-11-13-attorneys/">
         <div class="sidebarContainer">
           <img src="<?php echo DIR_HTTPS_CATALOG.DIR_IMAGES?>/Special-Needs-Trusts.png" width="100%" alt="Debt Relief &amp; Bankruptcy Attorneys" title="Debt Relief &amp; Bankruptcy Attorneys"> <strong>Debt Relief &amp; Bankruptcy Attorneys</strong><p>We represent both debtors and creditors. On the debtor side
