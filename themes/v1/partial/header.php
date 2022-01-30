@@ -30,7 +30,7 @@
 <meta name="dcterms.Rights" content="Copyright &copy;2021." />
 <meta name="dcterms.Title" content="<?php echo $pageTitle; ?>" />
 <meta name="dcterms.Creator" content="Bradley R. Bailyn, Esq." />
-<meta name="dcterms.Subject" content="SOLVING PROBLEMS AND RESOLVING <br/>DISPUTES FOR ENTREPRENEURS" />
+<meta name="dcterms.Subject" content="INTELLECTUAL PROPERTY AND COMMERCIAL LITIGATION" />
 <meta name="dcterms.Contributor" content="" />
 <meta name="dcterms.Date" content="" /> 
 <meta name="dcterms.Description" content="<?php echo $meta_description; ?>" />
@@ -58,7 +58,7 @@
 <link rel="stylesheet" href="<?php echo DIR_HTTPS_CATALOG.DIR_THEME_ASSETS ?>/frameworks/bootstrap.v4.3.1/bootstrap.min.css"> 
 
 <!-- Latest compiled and minified CSS -->
-<link rel="stylesheet" href="<?php echo DIR_HTTPS_CATALOG.DIR_THEME_CSS.'/main.css' ;?>"> 
+<link rel="stylesheet" href="<?php echo DIR_HTTPS_CATALOG.DIR_THEME_CSS.'/main.css?q=v15' ;?>"> 
 <link rel="stylesheet" href="<?php echo DIR_HTTPS_CATALOG.DIR_THEME_CSS.'/contact-form.css' ;?>"> 
 <link href="https://fonts.googleapis.com/css?family=Lato:300&display=swap" rel="stylesheet"> 
 <link href="https://fonts.googleapis.com/css?family=Playfair+Display:700,900&display=swap" rel="stylesheet"> 

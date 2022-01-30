@@ -32,7 +32,7 @@ $wrapper_classes .= has_nav_menu( 'primary' ) ? ' has-menu' : '';
 
             <div class="catch-phrase">
 
-              SOLVING PROBLEMS AND RESOLVING <br/>DISPUTES FOR ENTREPRENEURS
+              INTELLECTUAL PROPERTY AND <br/>COMMERCIAL LITIGATION
 
             </div>
 

@@ -8,9 +8,8 @@
             <hr class="brand-line"/>
             <div class="catch-phrase">
 
-              SOLVING PROBLEMS AND RESOLVING 
-              <br/>DISPUTES FOR ENTREPRENEURS
-
+              Corporate And Litigation Counsel <br/>To Small And Mid-Sized Firms
+               
 
             </div>
           </div>
